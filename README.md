@@ -36,3 +36,7 @@ Setup user and email:
 
 # 3. Https vs ssh  
 ssh-keygen -t ed25519 -C "your_email@example.com"
+
+# 4. Sơ đồ hoạt động github
+![image](https://github.com/Mefuuuu/demo-github/assets/133778142/a4215f2c-d49b-4ddc-b006-468fdae562b0)
+
