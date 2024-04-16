@@ -40,3 +40,14 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 # 4. Sơ đồ hoạt động github
 ![image](https://github.com/Mefuuuu/demo-github/assets/133778142/a4215f2c-d49b-4ddc-b006-468fdae562b0)
 
+# 5. Làm việc nhóm
+
+git pull origin main = git fetch + git merge
+
+git merge (gộp code lại)
+
+git checkout -b ... (tạo nhánh mới)
+
+git branch (đổi nhánh)
+
+git conflict
