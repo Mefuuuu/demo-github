@@ -18,6 +18,7 @@ Setup user and email:
       1. Tạo 1 github repository (folder): nơi chứa code
       2. Clone với project này: git clone link_your_repo
       3. Viết code:
+      git bash trong folder
       git status (kiểm tra trạng thái các file)
       git add . (thêm file)
       git commit -m "your_message" (tạo nội dung commit)
